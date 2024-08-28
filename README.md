@@ -33,17 +33,6 @@ This repository contains several machine learning recommendation system projects
      - **Matrix Factorization-Based Collaborative Filtering**: Applies matrix factorization techniques like Singular Value Decomposition (SVD) for more sophisticated recommendations.
      - **Clustering-Based Recommendation System**: Groups users or items into clusters and provides recommendations based on the clusters.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/recommendation-systems.git
-   ```
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebooks in the `/notebooks` directory to see the projects in action.
-
 ## Contributing
 Feel free to submit issues or pull requests if you find any bugs or have ideas for improvements.
 
